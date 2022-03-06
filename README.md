@@ -1,1 +1,1 @@
-# -KamenRiderRich-.github.io
+# KamenRiderRich.github.io
